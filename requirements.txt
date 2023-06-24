@@ -1,0 +1,10 @@
+#list all library needed for Tracking-Detection-YOLOV8 
+gunicorn
+pathlib
+Pillow
+streamlit
+ultralytics
+opencv-python
+pafy
+
+
