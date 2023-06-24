@@ -5,6 +5,7 @@ Pillow
 streamlit
 ultralytics
 opencv-python
+youtube-dl
 pafy
 
 
